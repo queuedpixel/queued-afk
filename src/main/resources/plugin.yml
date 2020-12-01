@@ -21,7 +21,7 @@
 # SOFTWARE.
 
 name: QueuedAFK
-version: 1.0.0-SNAPSHOT
+version: 1.0.0
 main: com.queuedpixel.queuedafk.QueuedAfkPlugin
 permissions:
   queuedafk.noafk:

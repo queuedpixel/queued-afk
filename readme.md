@@ -2,10 +2,6 @@
 
 Queued AFK is a Spigot plugin that prevents players from being kicked for going AFK.
 
-## Under Development
-
-This is a development snapshot version of this project that may not be stable or function at all.
-
 ## Installation
 
 ### Download
@@ -20,7 +16,7 @@ We use [Apache Maven](https://maven.apache.org/) to compile this plugin.
 
 ### Install
 
-Copy `queued-afk-1.0.0-SNAPSHOT.jar` into your server `plugins` directory.
+Copy `queued-afk-1.0.0.jar` into your server `plugins` directory.
 
 ### Configure
 
